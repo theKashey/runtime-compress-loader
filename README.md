@@ -1,6 +1,6 @@
 # runtime-compress-loader
 ----
-Remove the helpers, babel and typescript inlined to the every file
+Removes the helpers, babel and typescript inlined to the every file
 
 ## What it does
 
