@@ -1,0 +1,23 @@
+{
+  "name": "runtime-compress-loader",
+  "version": "1.0.0",
+  "description": "babel and typescript runtime optimization loader",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "theKashey <thekashey@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theKashey/runtime-compress-loader/issues"
+  },
+  "homepage": "https://github.com/theKashey/runtime-compress-loader#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.1.2",
+    "tslib": "^1.9.3"
+  },
+  "peerDependencies": {
+    "source-map": "^0.7.3"
+  },
+  "devDependencies": {
+    "source-map": "^0.7.3"
+  }
+}
