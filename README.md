@@ -44,5 +44,7 @@ For project, not yet transpiled files only.
 
 - [tslib](https://github.com/Microsoft/tslib) - `importHelpers` for typescript
 
+- [jsx-compress-loader](https://github.com/theKashey/jsx-compress-loader) - almost the same "compressing" operation, but for React.createElement only.
+
 # Licence
 MIT
